@@ -1,0 +1,4 @@
+This is a set of mini-pranks I coded in Visual Basic for you to play on your friends and trick them into thinking they have a virus!
+Beware of who you try these on. These are all pretty much harmless if used properly but when used incorrectly can cause problems. Some Anti-Virus programs will detect it as a virus. Avira does so for me.
+To stop the scripts go to your task manager and right click on "wscript.exe" and click "End Process Tree." Visual Basic is a simple
+programming language that I would recommend for beginners. Please read "readme.md" to learn how to configure.
