@@ -1,0 +1,1 @@
+The initial virus.vbs is a work in progress so it most likely wont work. For this reason I am recoding it and for now commenting out the whole git copy.
